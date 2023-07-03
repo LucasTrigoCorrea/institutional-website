@@ -1,0 +1,51 @@
+Elétrica industrial
+-Quadros de comando e potência
+-Adequação de NR12
+-Instalação de Máquinas e Equipamentos
+-Manutenção Preventiva
+-Manutenção Corretiva
+-Montagem de Infraestrutura
+-Eletro Hidraulica e Pneumática
+
+Mecânica industrial
+-Manutenção Preventiva
+-Manutenção Corretiva
+-Montagem e instalção de equipamentos
+-Montagem de rede de ar comprimido
+-Bombas e Compressores
+-Hidraulica e Pneumática
+
+Consultoria
+-Levantamento de Carga
+-Analise de consumo
+-Analise de aterramento
+-Analise de qualidade de rede
+
+Automação
+-Instalação e manutenção de inversores de frequência
+-SoftStart
+-Sensores e Acionamentos
+-Controles de Acesso
+	
+Segurança Residencial
+-Cerca Eletrificada
+-Vídeo monitoramento
+-Interfonia
+-Controle de acesso por biometria
+-Automatizadores de portas e portões
+-Centrais de Alarme
+
+Instalação Elétrica Residencial
+-Automação Residencial
+-Execução de projetos arquitetônicos e de engenharia
+-Design de iluminação
+-Padrão de Entrada
+-Sistemas de Aterramento
+
+Manutenção Elétrica residencial
+-Atualização de Padrão e quadros de distribuição
+-Luminárias e lustres
+-Diagnostico de defeitos
+-Tomadas de uso geral e específicas
+-Estudo e Balanceamento de cargas
+-Adequação de circuitos
